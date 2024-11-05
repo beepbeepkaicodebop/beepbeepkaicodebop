@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="right">
-  Hey you! 👋 I'm Jay! 🤗✨
+  Hey you! 👋 I'm Kairo(s) || Jay! 🤗✨
 </h1>
 
 <h3 align="center">
 🎯 Important Disclaimer: 🎯
 </h3>
 
-<p align="center">It's been quite a while since I last used my own (aka <i>this</i>) gh profile due to using corps one and stuff, so please don't mind the dust. But I'm planning to change it soon and come back with new random lil' projects and content so stay tuned and I'm all ears for tips on how to get rid of those cobwebs!</p> 
+<p align="center">It's been quite a while since I last used my own (aka <i>this</i>) gh profile due to using corps one and stuff, so please don't mind the dust. But I plan to change it soon and come back with new random little projects and content, so stay tuned, and I'm all ears for tips on getting rid of those cobwebs!</p> 
 <p align="center">(project ideas? challenges? open source projects? producing content together? I'm all in, let's connect!) 💫</p>
 
 <p align="center">
@@ -67,7 +67,7 @@ class Me:
         self.details = [
           "Autistech prized with TDAH, what a bless",
           "Mixed and proud",
-          "I'm a questioner, a friend in need, hardworker kiddo",
+          "I'm a questioner, a friend in need, hardworking kiddo",
           "A believer of people and our creations and capabilities"
         ]
         
@@ -94,7 +94,7 @@ jay.update_languages_spoken()
 
 ## 👾 Contacts, I guess? Hope LinkedIn is enough? 📫
 <p align="left">
-<a href="https://linkedin.com/in/jessicahappatsch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessicahappatsch" height="30" width="40" /></a><a href="https://twitter.com/hirai3i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hirai3i" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jessicahappatsch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me" height="30" width="40" /></a><a href="https://twitter.com/hirai3i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hirai3i" height="30" width="40" /></a>
 </p>
 
 > `ps.: note to self: update when changing @twitter`
@@ -130,7 +130,7 @@ jay.update_languages_spoken()
 
 > `and others I'm getting tired of editing this template and looking for the icons to replace lol`
 
-> **Summary?** Basically backend/frontend and their tools with cloud experiences with a focus on AWS, playing with SRE, the Data ~World and their tools, trying to learning architecture and mainly to keep on improving my knowledge on this rollercoaster of fast changes!
+> **Summary?** Basically, backend/frontend and their tools with cloud experiences with a focus on AWS, playing with SRE, the Data ~World and their tools, trying to learn architecture and mainly to keep on improving my knowledge on this rollercoaster of fast changes!
 
 > `note to self: make a list instead, next time I edit this`
 
@@ -138,14 +138,14 @@ jay.update_languages_spoken()
 ## 🖋 What else should I say here?!
 DM me on LinkedIn or say hi on Twitter, alright?
 
-- 🔭 **I’m currently working on...** myself, I hope. Projects change and so do stacks, but it's been mainly backend and hopefully a frontend task here and there.
-- 🌱 **I’m currently learning...** to not be so anxious! (improving my biz - now I'm a Computer Science student uhuhhhhhh!)
-- 👯 **I’m looking to collaborate on...** anything that will have a positive impact on society, be it where I live or anywhere else. Let's create something from scratch or call me if you got something in mind! If I don't have the necessary tech skills, I'll learn it!
-- 🤔 **I’m looking for help with...** carreer mentoring, basically. I need to know my worth and learn how to negotiate it. I'd also like to learn new languages, I only speak two.
-- 💬 **Ask me about...** almost anywthing as long as you don't disrespect me and it doesn't me I won't reply anyway so mind your language and the topic, alright?
-- 📫 **How to reach me?** LinkedIn might be better? I'm always changing usernames/handlers/whatever the kinds call it these days.
-- 😄 **Pronouns:** Call me Jay and we're good.
-- ⚡ **Fun fact:** Damn, I got none... How could I know what'd be fun to you? lmao We can talk and find it out (if you're a recruiter HAHAHA)
+- 🔭 **I’m currently working on...** myself, I hope. Projects change, and so do stacks, but it's been mainly backend work with hopefully a frontend task here and there.
+- 🌱 **I’m currently learning...** to not be so anxious! (improving my biz - now I'm a Computer Science student, uhuhhhhhh!)
+- 👯 **I’m looking to collaborate on anything that will have a positive impact on society, whether where I live or anywhere else. Let's create something from scratch, or call me if you have something in mind! If I don't have the necessary tech skills, I'll learn them!
+- 🤔 **I’m looking for help with...** carreer mentoring, basically. I need to know my worth and learn how to negotiate it. I'd also like to learn new languages; I only speak two and a half.
+- 💬 **Ask me about...** almost anything as long as you don't disrespect me, but chances are I won't reply anyway, so mind your language and the topic for higher rates of replies, alright?
+- 📫 **How to reach me?** LinkedIn might be a better bet, I guess? I'm constantly changing usernames/handlers/whatever the kids call it these days.
+- 😄 **Pronouns:** Call me Jay or Kai, and we're good.
+- ⚡ **Fun fact:** Damn, I got none... How could I know what'd be fun to you? Lmao We can talk and find it out (if you're a recruiter, HAHAHA)
 
 > `Take care, stay golden and be kind!`
 <p align="left">
