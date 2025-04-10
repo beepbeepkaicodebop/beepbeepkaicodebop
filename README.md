@@ -1,153 +1,111 @@
+_hiya~_ 👋
+
+<br>
+<br>
+
 <p align="left">
   <img height="350" src="https://github.com/vonhappatsch/vonhappatsch/blob/main/wordart.png?raw=true"/>
 </p>
 
-<h1 align="right">
-  Hey you! 👋 I'm Kairo(s) || Jay! 🤗✨
-</h1>
+<br>
+<br>
 
-<h3 align="center">
-🎯 Important Disclaimer: 🎯
-</h3>
+<h2 align="center">
+🎯 Disclaimer: 🎯
+</h2>
 
-<p align="center">It's been quite a while since I last used my own (aka <i>this</i>) gh profile due to using corps one and stuff, so please don't mind the dust. But I plan to change it soon and come back with new random little projects and content, so stay tuned, and I'm all ears for tips on getting rid of those cobwebs!</p> 
-<p align="center">(project ideas? challenges? open source projects? producing content together? I'm all in, let's connect!) 💫</p>
+🔭 **I’m currently working on:** <br>
+- _myself_.
+
+<br>
+
+>  As I recover from a hardcore burnout ignored long enough to find myself in unrecognisable ashes and this gh crowded by cobwebs, this has been my main —— and for the most part, the only —— project.
+
+In spite of how much it may sound like some flimsy excuse or another cheap cliché preached by and to the losers going bonkers, I'm finally learning and accepting the need and impact of working on myself by moving it to the DOING column, claiming this WIP, and all else it entails.
+
+<br>
+
+> >So please don't mind the dust all over this old mess.
+> > I plan to change it as I step further toward recovery and myself.
+
+<br>
 
 <p align="center">
   <img height="350" src="https://media.tenor.com/MriD0qYK4A0AAAAC/sailor-mercury-sailor-moon.gif">
 </p>
 
----
+<h3 align="center">
+  <a href="https://linkedin.com/in/jessicahappatsch" target="blank">📫 let's connect!</a> 🤗 ✨
+</h3>
 
-<h2> 🤖 &nbsp;What? Me? 👻</h2>
+<br>
+<br>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+Taking this wild ride along these roads made of quicksand against concrete has been a rollercoaster of _learning and failing countless old and new lessons_ from which many I can _apply on my following adventures, **creating and fixing solutions**_.
+
+> While I hope I'm picking up the habit of successfully and frequently closing as much of the tasks required to perform **the most prestigious and crucial of roles**, and, yet, often looked down upon —— _that of an actual living creature_ ——, I **am aware** of how much the description and benefits can _pale in comparison_ to the others.
+
+When faced with **supposedly** opposing roles, the shiny happy package takes the spot regardless of what hides under all the wrapping.
 
 
-class Me:
-    def __init__(self):
-        self.name = "Jay"
-        self.role = "Software Engineer"
-        self.languages_spoken = [
-          "pt_BR", 
-          "en_US"
-         ]
-        self.education = [
-          "Background in Communications, Social Media, Events and Social Sciences",
-          "Self-Taught Musician, ESL, Programmer and Producer",
-          "Graduating in Computer Science",
-          "Studying Music Production",
-          "Diversity and Inclusion",
-          "Innovation and Transformation",
-        ]
-        self.hobbies = [
-          "Music", 
-          "Creations and creating",
-          "Films and series from all around the globe",
-          "Stories and learning people and about them - no wonder I used to study it",
-          "Plotting adventures in my head",
-          "Finding solutions",
-          "Chilling after a long day",
-          "Getting out of my comfort zone"
-        ]
-        self.fields_of_interests: [
-          "Web Development",
-          "Data and its subtopics",
-          "UI/UX - people!",
-          "Innovation and transformation - people!",
-          "Diversity and Inclusion - peopleeee make it work for all people!",
-          "DevOps",
-          "Content Creation",
-          "Spreading my tiny knowledge",
-          "Game Development",
-          "And many more to come..."
-        ]
-        self.details = [
-          "Autistech prized with TDAH, what a bless",
-          "Mixed and proud",
-          "I'm a questioner, a friend in need, hardworking kiddo",
-          "A believer of people and our creations and capabilities"
-        ]
-        
-        
-    def say_hi(self):
-        print("Hi, fellow human! Hope we get along!")
-    
-    
-    def talk_about_experiences(self):
-        print("Oops... You're gonna have to scroll for my LinkedIn!")
-    
-    
-    def update_languages_spoken(self):
-        print("Looking for classes of: German, Spanish or Korean. DM me!")
-        
-        
-jay = Me()
-jay.say_hi()
-jay.talk_about_experiences()
-jay.update_languages_spoken()
-```
-  
----  
+It is no surprise that `demands like prioritising the ongoing care, upkeep, and development of my hardware, OS and apps as the current KPI and not guilt-tripping over it rarely make it to the backlog column.`
 
-## 👾 Contacts, I guess? Hope LinkedIn is enough? 📫
-<p align="left">
-<a href="https://linkedin.com/in/jessicahappatsch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me" height="30" width="40" /></a><a href="https://twitter.com/hirai3i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hirai3i" height="30" width="40" /></a>
+There is no space for such stories when the releases are a looping film of permanently urgent priorities exponentially raising the mindless grinding points behind each sprint carried by `the silent and long-established general despair` to get it, make it, and keep it, and `its unspoken rule` of unlimited sacrifice despite the stakes and load _de facto_.
+
+
+This concept is so intertwined in us that it becomes **one of the few plausible common denominators across people from all scraps across the scope**.
+
+
+> The **mindsets and the life behind them** are brought to you by the creators of the worldwide hit _“Work While They Sleep"_ and sponsored by the long-running success _“No Pain, No Gain"_ producers —— or whatever similar cliché is trending while you read it —— and they **do sound way more promising** than anything remotely related to this equally banal talk of self-care, etc.
+
+> **I know**. I've been there, done that.
+
+And even so, _time and again_, I _roam back_ to these corners and for a much longer stay than I should by now. **Despite the realisation, I'm still just another naive pixel in the picture of a tale as old as the time of this common denominator target.** `We are, after all, a WIP in the line of the evolution and with no deadline`, innit? 
+
+
+Nonetheless, I'm finally `getting around these overwhelming highways and crowded crossroads without falling inside another expertly hidden hole every few steps`.
+> After climbing down some _Godzilla hills_, **I can catch glimpses somewhere on the misty horizon of my love for this activity and _the whys_**.
+
+
+_**Therefore**_, all this nonsense cliché has obviously been proven reasonable and essential for survival and thriving in these waters, and to turn the tides from workaholic mindsets towards `higher, prettier, and healthier waves crashing consistently against all shores, I shall set my heart to.`
+
+<br>
+<br>
+
+<p align="center">
+  With all that being said, I am currently working on myself and plan to keep doing so, <br>
+  especially as I work on the fantastic projects and creations to come!
 </p>
 
-> `ps.: note to self: update when changing @twitter`
-
----
+<br>
+<br>
   
-<h2> 👨🏽‍💻 &nbsp;Some Tools I Have Used and Had The Patience To Update The Icons - order has no meaning! 🚀</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="csharp" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
-</p>
+--- 
 
-> `and others I'm getting tired of editing this template and looking for the icons to replace lol`
+  
+<h3> 
+  👨🏽‍💻 ~<em>them tools</em> 
+</h3>
 
-> **Summary?** Basically, backend/frontend and their tools with cloud experiences with a focus on AWS, playing with SRE, the Data ~World and their tools, trying to learn architecture and mainly to keep on improving my knowledge on this rollercoaster of fast changes!
+`q u i c k  s u m m a r y`
+<br>
 
-> `note to self: make a list instead, next time I edit this`
+> Fullstack developer, with experience on AWS solutions and the `data WoRlD~`, focusing on the user experience and broader inclusion. Special interest in architecture and ongoing learning and improvement.
+<br>
 
----
-## 🖋 What else should I say here?!
-DM me on LinkedIn or say hi on Twitter, alright?
+- _note to future self editing this some day in the future:_
+- [ ] list the stuff I've either used previously or am currently learning. 🚀
 
-- 🔭 **I’m currently working on...** myself, I hope. Projects change, and so do stacks, but it's been mainly backend work with hopefully a frontend task here and there.
-- 🌱 **I’m currently learning...** to not be so anxious! (improving my biz - now I'm a Computer Science student, uhuhhhhhh!)
-- 👯 **I’m looking to collaborate on anything that will have a positive impact on society, whether where I live or anywhere else. Let's create something from scratch, or call me if you have something in mind! If I don't have the necessary tech skills, I'll learn them!
-- 🤔 **I’m looking for help with...** carreer mentoring, basically. I need to know my worth and learn how to negotiate it. I'd also like to learn new languages; I only speak two and a half.
-- 💬 **Ask me about...** almost anything as long as you don't disrespect me, but chances are I won't reply anyway, so mind your language and the topic for higher rates of replies, alright?
-- 📫 **How to reach me?** LinkedIn might be a better bet, I guess? I'm constantly changing usernames/handlers/whatever the kids call it these days.
-- 😄 **Pronouns:** Call me Jay or Kai, and we're good.
-- ⚡ **Fun fact:** Damn, I got none... How could I know what'd be fun to you? Lmao We can talk and find it out (if you're a recruiter, HAHAHA)
+<br>
+<br>
 
-> `Take care, stay golden and be kind!`
-<p align="left">
+
+<p align="right">
   <img src="https://media.tenor.com/_6dZ0VfcAA8AAAAC/unbothered-typing.gif">
+</p>
+
+<p align="right">
+  <code>A friendy remember to drink some water and move aroub a bit!</code>
+  <br>
+  <code>Take care, stay golden and be kind (including to yourself!). 💫</code>
 </p>
